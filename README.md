@@ -1,1 +1,17 @@
 # training360-szoftverarchitekturak
+
+![Első kép](demo_1.png)
+![Első kép](demo_2.png)
+![Első kép](demo_3.png)
+![Első kép](demo_4.png)
+![Első kép](demo_5.png)
+![Első kép](demo_6.png)
+![Első kép](demo_7.png)
+![Első kép](demo_8.png)
+![Első kép](demo_9.png)
+![Első kép](demo_10.png)
+![Első kép](demo_11.png)
+![Első kép](demo_12.png)
+![Első kép](demo_13.png)
+![Első kép](demo_14.png)
+![Első kép](demo_15.png)
